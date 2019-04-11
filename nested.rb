@@ -81,7 +81,7 @@ programmer_hash =
         }
      }
  
- programmer_hash["yukihiro_matsumoto"]  
+ programmer_hash[:adding_matz]= "yukihiro_matsumoto"  
  
     
 end
