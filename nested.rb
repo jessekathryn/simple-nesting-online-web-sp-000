@@ -59,7 +59,7 @@ def dennis_ritchies_language
         }
      }
 
-programmer_hash[:dennis_ritchie][:known_for][:languages] = " "
+programmer_hash[:dennis_ritchie][:known_for][:languages] = "C"
 
 end
 
